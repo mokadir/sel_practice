@@ -1,0 +1,4 @@
+pageObjects\LandingPage.class
+pageObjects\PracticePage.class
+resources\Base.class
+resources\ExtentReporterNG.class
